@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 61 products, 16 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/program/Menu.scala, ${BASE}/src/main/scala/algebras/Console.scala, ${BASE}/src/main/scala/program/AppError.scala, ${BASE}/src/main/scala/algebras/WorkRepo.scala, ${BASE}/src/main/scala/interpreters/IdInterpreters.scala, ${BASE}/src/main/scala/domain/Types.scala, ${BASE}/src/main/scala/domain/Errors.scala, ${BASE}/src/main/scala/algebras/ExamControl.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/usecases/Exam.scala, ${BASE}/src/main/scala/monad/Monad.scala, ${BASE}/src/main/scala/algebras/ResultRepo.scala, ${BASE}/src/main/scala/program/Program.scala, ${BASE}/src/main/scala/algebras/IdSource.scala, ${BASE}/src/main/scala/algebras/Logger.scala, ${BASE}/src/main/scala/usecases/Score.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
